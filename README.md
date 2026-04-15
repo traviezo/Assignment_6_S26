@@ -9,4 +9,4 @@
 - David Hooper
 - Bina Sawani
 - Alexander Ibrahim
-- Christian Ramos
+- Christian H Ramos
