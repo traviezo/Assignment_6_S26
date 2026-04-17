@@ -10,3 +10,6 @@
 - Bina Sawani
 - Alexander Ibrahim
 - Christian H Ramos
+- Nicholas Dunbar
+- Yoru Li
+- Makoto Tomokiyo
